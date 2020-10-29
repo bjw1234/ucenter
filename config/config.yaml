@@ -1,0 +1,24 @@
+env: "dev"
+
+mysql:
+  host: "127.0.0.1"
+  port: "3306"
+  database: "ucenter"
+  username: "root"
+  password: "123456"
+  timezone: "Asia/Shanghai"
+  timeout: 10000 # ms
+  read_time_out: 5000
+  write_time_out: 5000
+
+  # 连接池相关
+  conn_max_life_time: 5000 # 连接池连接超时时间
+  max_idle_conns: 1000 # 连接池最大连接数
+
+redis:
+  addr: "127.0.0.1:6379"
+  password: ""
+  pool_size: 1000
+  idle_timeout: 1000 # 单位 ms
+  retries: 3 # 重试次数
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a708fd5-70b0-4aaa-ad78-51892a8e4b74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jLkbDlnYL8euVxNrHZfO4Fgz2Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/service/sms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build ucenter">
+    <configuration name="go build ucenter" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ucenter" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="ucenter" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDb in ucenter/src" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ucenter" />
+      <working_directory value="$PROJECT_DIR$/src" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ucenter/src" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestDb$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFlag in ucenter/src/controllers/sms" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ucenter" />
+      <working_directory value="$PROJECT_DIR$/src/controllers/sms" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ucenter/src/controllers/sms" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFlag$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMD5 in ucenter/src/utils/crypto" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ucenter" />
+      <working_directory value="$PROJECT_DIR$/src/utils/crypto" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ucenter/src/utils/crypto" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMD5$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRedis in ucenter/src/controllers/sms" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ucenter" />
+      <working_directory value="$PROJECT_DIR$/src/controllers/sms" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ucenter/src/controllers/sms" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRedis$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ucenter" />
+        <item itemvalue="Go Test.TestDb in ucenter/src" />
+        <item itemvalue="Go Test.TestMD5 in ucenter/src/utils/crypto" />
+        <item itemvalue="Go Test.TestFlag in ucenter/src/controllers/sms" />
+        <item itemvalue="Go Test.TestRedis in ucenter/src/controllers/sms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Inspections" timestamp="1603591911688">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1603591911688" />
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603615398852">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="430" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603615398852" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603847354115">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603843792446" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603847354115" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603596912662" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603847354114">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603843792444" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603847354114" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603596912661" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603847354112">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603843792442" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603847354112" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603596912660" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603847354115">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603843792445" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603847354115" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603596912662" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1603674362234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603674362233" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603620177164" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1603674362231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603674362231" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603620177162" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1603674362230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603674362230" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603620177161" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1603674362232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603674362232" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603620177163" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1603592620395">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603592620395" />
+    <state x="269" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603620174110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="269" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1603620174110" />
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1603846431316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603846431316" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603760445291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1603760445291" />
+  </component>
+</project>
